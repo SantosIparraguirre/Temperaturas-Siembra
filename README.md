@@ -46,6 +46,7 @@ El proyecto genera varios outputs de archivos excel que incluyen:
 
 ## Nota Importante
 - La imputación de valores faltantes se deja a criterio de los ingenieros agrónomos.
+- Se debe recalcular el promedio y acumulado de GDU por quincena luego de imputar valores.
 
 ## Audiencia
 Este proyecto está diseñado específicamente para el equipo de ingenieros agrónomos de DON MARIO que se dedican a la siembra y cosecha de maíz.
