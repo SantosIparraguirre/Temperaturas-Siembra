@@ -33,9 +33,12 @@ El proyecto implica el manejo de datos de temperatura abrigo desde 2014 hasta la
    - Detección de fechas faltantes en el conjunto de datos.
    - Opción para imputar valores faltantes (a criterio de los ingenieros).
 
+8. **Promedio diario**
+   - Luego de imputar los datos faltantes, obtenemos un promedio para cada día del año durante todo el período (2014-2024). Este procedimiento fue realizado en promedios_diarios.ipynb
+
 ## Datos Utilizados
 - Tipo de datos: Temperatura abrigo
-- Período: 2014 - actualidad
+- Período: 2014 - actualidad (2024)
 - Frecuencia: Diaria
 
 ## Resultados
@@ -43,13 +46,11 @@ El proyecto genera varios outputs de archivos excel que incluyen:
 - GDU acumulado por quincena y mes.
 - Resumen de GDU acumulado (suma y promedio) por quincena para cada mes.
 - Identificación de valores nulos en el conjunto de datos.
+- Promedio diario de GDU para todo el período.
 
 ## Nota Importante
-- La imputación de valores faltantes se deja a criterio de los ingenieros agrónomos.
+- La imputación de valores faltantes se deja a criterio y aplicación de los ingenieros agrónomos.
 - Se debe recalcular el promedio y acumulado de GDU por quincena luego de imputar valores.
-
-## Audiencia
-Este proyecto está diseñado específicamente para el equipo de ingenieros agrónomos de DON MARIO que se dedican a la siembra y cosecha de maíz.
 
 ## Contacto
 
