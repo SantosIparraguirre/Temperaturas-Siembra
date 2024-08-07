@@ -1,4 +1,4 @@
-# Proyecto de Procesamiento de Datos de Temperatura para DON MARIO
+# Proyecto DON MARIO
 
 ## Objetivo
 Este proyecto tiene como objetivo procesar, calcular y segmentar datos de temperatura abrigo para el equipo de ingenieros agrónomos especializados en la siembra y cosecha de Maiz de la empresa DON MARIO. El procesamiento de estos datos facilitará su posterior análisis para la toma de decisiones en la producción agrícola.
